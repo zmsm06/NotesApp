@@ -5,10 +5,10 @@ Notepad software for recording events and information with the ability to add an
 
 HomePage
 <p align="center" width="100%">
-    <img width="32%" src="screenshots/homePage.jpg">
+    <img width="32%" src="screenshots/homePage.png">
 </p>
 
 deletePage
 <p align="center" width="100%">
-    <img width="32%" src="screenshots/deletePage.jpg">
+    <img width="32%" src="screenshots/deletePage.png">
 </p>
