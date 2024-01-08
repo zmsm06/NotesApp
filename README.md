@@ -7,3 +7,8 @@ HomePage
 <p align="center" width="100%">
     <img width="32%" src="screenshots/homePage.jpg">
 </p>
+
+deletePage
+<p align="center" width="100%">
+    <img width="32%" src="screenshots/deletePage.jpg">
+</p>
