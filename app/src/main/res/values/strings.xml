@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">دفترچه یادداشت</string>
+    <string name="button">button</string>
+    <string name="recycle_bin">سطل زباله</string>
+    <string name="title">عنوان یادداشت</string>
+    <string name="detail">توضیحات نوشته</string>
+    <string name="save">ذخیره کردن</string>
+    <string name="cancel">منصرف شدن</string>
+</resources>
